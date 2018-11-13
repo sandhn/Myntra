@@ -1,0 +1,4 @@
+2018-11-04 21:11:06 INFO  BaseTest:38 - **************testValidLoginStarted***************
+2018-11-04 21:11:47 INFO  MainPage:30 - Clicking on Man Icon..
+2018-11-04 21:11:180 INFO  MainPage:37 - Clicking on Login button..
+2018-11-04 21:11:204 INFO  BaseTest:63 - **************testValidLoginFinished***************
